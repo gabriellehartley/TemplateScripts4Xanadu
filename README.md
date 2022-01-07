@@ -19,9 +19,10 @@ Xanadu users are encourage to deposit scripts in this repository.  Please follow
 #SBATCH --mem=10G
 #SBATCH -o log-%j.out
 
-## CONTRIBUTOR DETAILS
+###### CONTRIBUTOR DETAILS ###############
 # NAME  : VIJENDER SINGH
 # EMAIL : userID@domain.com
+##########################################
 
 # Command below loads the fastqc module with 0.11.7 version
 module load fastqc/0.11.7
