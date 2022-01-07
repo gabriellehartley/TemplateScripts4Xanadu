@@ -8,7 +8,7 @@ Xanadu users are encourage to deposit scripts in this repository.  Please follow
 #### 4. Please annotate your script as much as possible so that it is easy to follow for potential users. A basic annotation example is given below.
 #### 5. As a user if you encounter issue with the deposited script, please get in touch to get it fixed.  Either email the contributor or cbcsupport@uconn.edu.
 #### 6. Finally please appreciate the efforts of the individuals who contributed their scripts.
-###  7. You are welcome  to deposit scripts for same package with different version. However,Please donot submit multiple scripts for the same package with same version number.  
+###  7. You are welcome  to deposit scripts for same package with different version numbers. However,Please donot submit multiple scripts for the same package with same version number.  
 
 ### Sample script file name : fastqc-0.11.7.sh
 ```
