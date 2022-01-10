@@ -40,5 +40,13 @@ fastqc -t 4 -o ./RAWfastqc_OUT ../01_raw_reads/${sample}*_R1*.fastq.gz ../01_raw
 
 
 ```
+## How to Contribute?
+1. Create a github account if you donot have one then, Create a fork by clicking on `Fork` on top right corner of this repository page. 
+2. A copy of the repository will be available in your GitHub account.  You can then add your scripts by clicking `Add File` next to green `code` tab.
+3. Now, add files in your forked repository.  Once you have added all the scripts.  Create a pull request, by clicking Pull Requests.
+4. This will take you to another page, where it will shows a green tab, asking to create Pull request. CLick it.
+5. Further it will ask you to put a comment.  Add a short comment like name of Script(s) and submit it.
+6.  This will notify mus that a new version is available and ask us to merge.  Which we will take care of. 
+
 
 # We thank all the contributors for their efforts.
